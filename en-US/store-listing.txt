@@ -1,0 +1,19 @@
+Daily Pill — Medication Reminder
+================================
+
+Reminder app for your daily medication. Easy to use and respects your privacy.
+
+------------
+
+Daily Pill can help you remember to take your medicine every day.
+
+It works great if you need to take it in the morning. It shows a reminder on
+your lock screen that appears when you pick up the phone for the first time in
+the morning. You can answer this reminder with the press of a single button,
+without needing to unlock your phone first.
+
+Daily Pill also remembers the exact time when you have taken your medicine.
+This can be useful if you need to take it on an empty stomach.
+
+Daily Pill is free and open source software.
+It does not display ads, and does not collect your personal information.
