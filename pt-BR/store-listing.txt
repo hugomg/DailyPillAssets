@@ -5,15 +5,13 @@ Um lembrete para o sua medicação. Fácil de usar, e respeita a sua privacidade
 
 ------------
 
-O app Remédio Diário ajuda a lembrar de tomar o seu remédio todo dia.
+Ideal para quem precisa tomar um remédio pela manhã. O Remédio Diário mostra um
+lembrete na sua tela de bloqueio, que é visível quando você pegar o seu
+telefone após acordar. Você pode responder a este lembrete com o toque de um
+simples botão, sem destravar a tela.
 
-Ele funciona especialmente bem se você toma o remédio pela manhã. O app mostra
-um lembrete na sua tela de bloqueio, que aparece assim que você pega o telefone
-pela primeira vez na manhã. Você pode responder as este lembrete com o toque de
-um simples botão, sem precisar desbloquear ou digitar sua senha primeiro.
-
-Este app também lembra a hora exata em que você tomou o remédio. Isso pode
-ajudar se você precisa tomar o remédio com o estômago vazio.
+Se você precisar tomar o seu remédio com o estômago vazio, este app também
+se lembra do horário em que você tomou o remédio pela última vez.
 
 O Daily Pill é sofware livre e de código aberto.
 Ele não exibe anúncios, nem coleta sua informação pessoal.
