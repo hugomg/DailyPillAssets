@@ -1,7 +1,7 @@
 Remédio Diário
 ==============
 
-Um lembrete para o sua medicação. Fácil de usar, e respeita a sua privacidade
+Um lembrete para o seu remédio. Fácil de usar, e respeita a sua privacidade
 
 ------------
 
@@ -13,6 +13,6 @@ simples botão, sem destravar a tela.
 Se você precisar tomar o seu remédio com o estômago vazio, este app também
 se lembra do horário em que você tomou o remédio pela última vez.
 
-O Daily Pill é sofware livre e de código aberto.
+O Remédio Diário é software livre e de código aberto.
 Ele não exibe anúncios, nem coleta sua informação pessoal.
 

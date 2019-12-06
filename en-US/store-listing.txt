@@ -6,8 +6,7 @@ Reminder app for your daily medication. Easy to use and respects your privacy.
 ------------
 
 Ideal if you need to take your medicine every morning. Daily Pill shows a
-reminder on your lock screen which is visible when you pick up the phone after
-you wake up. Respond with the press of a single button, without unlocking.
+reminder on your lock screen which is visible in the first time you pick up the phone in the morning. Respond with the press of a single button, without unlocking.
 
 If you need need to take your medicine on an empty stomach, this app also
 remembers the exact time when you last took it.
